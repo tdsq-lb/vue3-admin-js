@@ -1,0 +1,8 @@
+{
+  "formatOnSave": true,
+  "singleQuote": false, // 使用单引号替代双引号
+  "semi": true, // 保存代码结尾的分号
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "ignore",
+  "trailingComma": "all"
+}
